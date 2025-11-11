@@ -1,0 +1,6 @@
+com\example\webhook\model\GenerateResponse.class
+com\example\webhook\WebhookApp$1.class
+com\example\webhook\repository\ResultRepository.class
+com\example\webhook\entity\ResultEntity.class
+com\example\webhook\WebhookApp.class
+com\example\webhook\service\WebhookService.class
